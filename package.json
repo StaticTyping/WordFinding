@@ -1,0 +1,17 @@
+{
+  "name": "1_WordFinding",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx tsc && rollup -c && node ./dist/test.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "rollup": "^2.35.1",
+    "typescript": "^4.1.3",
+    "typescript-bundle": "^1.0.17"
+  }
+}
